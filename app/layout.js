@@ -1,8 +1,8 @@
 import './globals.css'
 
 export const metadata = {
-  title: 'NexusAI - AI-Powered Freelance Services',
-  description: 'Professional AI-driven development, design, and marketing services',
+  title: 'NX Studio - Expert Development & Design',
+  description: 'Professional web development, UI/UX design, and marketing services. Fast delivery, quality results.',
 }
 
 export default function RootLayout({ children }) {
